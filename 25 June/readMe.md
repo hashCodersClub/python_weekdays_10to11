@@ -5,7 +5,7 @@
 3.  sets -> dupliate values nahi rakh sakte
 4.  dictionary
 
-# Modules : each program file is module.
+# Modules : Each Program file is Module.
 
 > import module
 > import module as m
